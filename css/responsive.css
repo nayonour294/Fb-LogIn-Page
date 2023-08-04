@@ -1,0 +1,100 @@
+@media only screen and (max-width: 375px) {
+	.w-50 {
+		width: 100%;
+	}
+	
+	.conteinar {
+		margin: 0;
+		width: 100%;
+		text-align: center;
+		height: 650px;
+	}
+	
+	.main-area .facebook {
+		width: 250px;
+		margin-top: 30px;
+	}
+	
+	.main-area .content-area h3 {
+		margin-top: -20px;
+		font-size: 16px;
+	}
+	
+	.main-area .log-form {
+		overflow: hidden;
+		margin-top: 30px;
+		margin-left: 30px;
+	}
+	
+	.main-area .create-page {
+		margin: 20px;
+	}
+	
+	.footer-area .language-area {
+		margin-left: 0px;
+	}
+	
+	.footer-area .support-area {
+		margin-left: 0px;
+	}
+}
+
+@media only screen and (max-width: 810px) {
+	.main-area .facebook {
+		margin-left: 0;
+		width: 250px;
+		margin-top: 150px;
+	}
+	
+	.conteinar {
+		width: 90%;
+		height: 550px;
+	}
+	
+	.main-area .content-area h3 {
+		margin-top: -10px;
+		font-weight: normal;
+		font-size: 20px;
+		box-sizing: border-box;
+		line-height: 1.5;
+		margin-bottom: 20px;
+	}
+	
+	.w-50 {
+		text-align: center;
+		overflow: hidden;
+	}
+	
+	.main-area .log-form {
+		margin-top: 70px;
+	}
+	
+}
+
+@media only screen and (max-width: 810px) {
+	.w-50 {
+		width: 100%;
+		overflow: hidden;
+		padding: 0 4rem;
+	}
+	
+	.main-area .facebook {
+		margin-top: 15px;
+	}
+	
+	.main-area .log-form {
+		margin-top: 0px;
+	}
+}
+
+@media only screen and (max-width: 360px) {
+	.w-50 {
+		width: 100%;
+		overflow: hidden;
+	}
+}
+
+
+
+
+
